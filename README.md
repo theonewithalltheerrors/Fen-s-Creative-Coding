@@ -1,4 +1,4 @@
-# creative-coding-template
+# fen's creative codinh
 A template students of 197191 can use to format their repositories for submission.
 
 Click the pencil icon to edit text!
