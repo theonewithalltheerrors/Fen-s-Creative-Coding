@@ -15,6 +15,6 @@ and I did
 almost
 not quite
 
-5. Instancing was hard. But this is my best/most interesting grid output. I like the misty feedback. //referencing the file called 'secxond submission'
+5. Instancing was hard. But this is my best/most interesting grid output. I like the misty feedback. //referencing the file called 'second submission'
 
 6. Simple But Beautiful only looks simple! I had to work out the colour on my own because google didn't get my question. I love how the colopurs turned out though.
